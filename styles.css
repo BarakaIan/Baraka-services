@@ -1,0 +1,19 @@
+body {
+    background-color : rgb(42, 201, 42);
+    text-align: justify;
+    border: #70993b;
+}
+.Welcome to Iana Designs {
+    width: max-content;
+    display: flex;
+    font-size: 30px;
+    font-display: 27px;
+
+}
+#Iana {
+    font-size: 30px;
+    color: rgb(57, 63, 65);
+}
+
+}
+}
