@@ -1,19 +1,59 @@
 body {
-    background-color : rgb(42, 201, 42);
     text-align: justify;
-    border: #70993b;
+    margin: #1c1d1c;
+    background-repeat: no-repeat;
+    background-image: url("./images/joppe-spaa-bo3KAZHZwIk-unsplash.jpg");
+    background-size: cover;
+    background-color: black;
 }
-.Welcome to Iana Designs {
+.body-img-background {
+    height: 350px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.Welcome {
+    color: white;
     width: max-content;
     display: flex;
     font-size: 30px;
     font-display: 27px;
 
 }
-#Iana {
-    font-size: 30px;
-    color: rgb(57, 63, 65);
+.Future {
+    color: white;
+}
+.Products {
+    color: white;
 }
 
+.Intros {
+    color: white;
 }
+.Intro {
+    color: thistle;
+}
+.More  {
+    color: white;
+}
+.container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+
+}
+.Iana {
+    height: 100%;
+    width: 100%;
+    color: thistle;
+}
+#Iana {
+    font-size: 30px;
+    color: thistle;
+}
+
+#Header li a{
+    color: thistle;
 }
