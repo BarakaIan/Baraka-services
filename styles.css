@@ -2,15 +2,31 @@ body {
     text-align: justify;
     margin: #1c1d1c;
     background-repeat: no-repeat;
-    background-image: url("./images/joppe-spaa-bo3KAZHZwIk-unsplash.jpg");
     background-size: cover;
-    background-color: black;
+    background-color: rgb(114, 49, 49);
+
 }
 .body-img-background {
     height: 350px;
     width: 100%;
     background-repeat: no-repeat;
     background-position: center;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    color: thistle;
+    
+}
+ul {
+    display: flex;
+    list-style-type: none;
+    color: thistle;
+
+}
+li>a {
+    text-decoration: none;
+    margin-right: 3em;
 }
 .Welcome {
     color: white;
@@ -24,7 +40,7 @@ body {
     color: white;
 }
 .Products {
-    color: white;
+    text-color: white;
 }
 
 .Intros {
@@ -47,13 +63,31 @@ body {
 .Iana {
     height: 100%;
     width: 100%;
-    color: thistle;
-}
-#Iana {
-    font-size: 30px;
-    color: thistle;
+    color: rgb(245, 224, 245);
+    margin-right: 100%;
 }
 
 #Header li a{
+    color: thistle;
+}
+img {
+    width: 300px;
+    margin-top: 20px;
+
+}
+.color {
+    color: white;
+}
+h1 {
+    color: thistle;
+}
+h4 {
+    color: thistle;
+}
+h5 {
+    font-size: 20px;
+    color: thistle;
+}    
+h3 {
     color: thistle;
 }
