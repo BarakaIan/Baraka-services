@@ -20,7 +20,7 @@ nav{
     display: flex;
     justify-content: space-between;
     color: thistle;
-    background-color: rgb(129, 52, 39);
+    background-color: rgb(252, 241, 239);
     
 }
 ul {
@@ -101,4 +101,22 @@ h3 {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
+}
+.footer-left {
+    display: flex;
+    justify-content: space-between;
+    color: thistle;
+    background-color: rgb(135, 122, 194);
+}
+.footer-right {
+    display: flex;
+    justify-content: space-between;
+    color: thistle;
+    background-color: rgb(135, 122, 194);
+}
+.footer-center {
+    display: flex;
+    justify-content: space-between;
+    color: thistle;
+    background-color: rgb(135, 122, 194);
 }
